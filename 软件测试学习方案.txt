@@ -3,5 +3,6 @@
 第三阶段 ：性能测试
 第四阶段：测试项目
 第五阶段：找实习前的阶段，找测试面试题学习，背面试题
+工具(需要用到的时候学)：LoadRunner  JMeter  Postman Fiddler  Unittest  request  BurpSuite  
 ps:其他的Linux，mysql之类的以前学过的就不列举了
 emm，我感觉这个顺序是我感觉对我自己而言是最好的，学习面试题这个阶段即使前面的阶段还没完成我也会腾出最后一个月来搞
