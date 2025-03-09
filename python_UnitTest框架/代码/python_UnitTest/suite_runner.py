@@ -2,8 +2,8 @@
 # 导包
 import unittest
 
-from testcast1 import TestDemo1
-from testcast2 import TestDemo2
+from case.testcase1 import TestDemo1
+from case.testcase2 import TestDemo2
 
 # 实例化套件对象
 suite = unittest.TestSuite()
